@@ -1,0 +1,3 @@
+import streamlit as st
+st.title('물건 구입 비용과 반족도는 비례할까')
+st.subheader('돈을 많이 쓸수록 만족스러운가')
